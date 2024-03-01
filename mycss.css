@@ -1,0 +1,16 @@
+body {
+    background-color: lightpink;
+}
+
+.container {
+    background-color: lightcyan;
+    padding: 15px;
+}
+
+.section-menu {
+    padding: 15px;
+}
+
+.my-large-btn {
+    margin-bottom: 20px;
+}
